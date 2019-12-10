@@ -1,4 +1,4 @@
-# Setup vimrc
+# Setup vim
 
 - install vundle plugin manager
 
