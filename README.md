@@ -7,3 +7,5 @@
 - get this vimrc
 
 `cp ~/.vimrc ~/.vimrc.bak; curl "https://raw.githubusercontent.com/jdhayhurst/vimrc/master/.vimrc" > ~/.vimrc`
+
+- Launch `vim` and run `:PluginInstall`
